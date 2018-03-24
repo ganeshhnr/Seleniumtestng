@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52141" started-at="2018-03-24T08:59:34Z" finished-at="2018-03-24T09:00:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52141" started-at="2018-03-24T08:59:34Z" finished-at="2018-03-24T09:00:26Z">
+      <class name="com.gp.selenium.Creationform">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.gp.selenium.Creationform@1184ab05]" name="setUp" is-config="true" duration-ms="23780" started-at="2018-03-24T14:29:34Z" finished-at="2018-03-24T14:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginApp()[pri:0, instance:com.gp.selenium.Creationform@1184ab05]" name="loginApp" duration-ms="28318" started-at="2018-03-24T14:29:58Z" finished-at="2018-03-24T14:30:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+      </class> <!-- com.gp.selenium.Creationform -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
